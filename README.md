@@ -1,5 +1,5 @@
 # Apple Marker
-Custom font inspired by Apple environment marker font. Having seen the elusive and really nice, handwritten style font Apple used in WWDC23 for their environment stuff, I searched for a similar style but didn't find one I liked. So I made my own! I'm calling it the Apple Marker font but it's not actually affilicated with Apple. NOT FOR COMMERCIAL USE PLEASE.
+Custom font inspired by Apple environment marker font. NOT FOR COMMERCIAL USE PLEASE.
 
 
 
